@@ -1,0 +1,7 @@
+apiVersion: tech.claudioed/v1alpha1
+kind: PodKeeper
+metadata:
+  name: example-podkeeper
+spec:
+  # Add fields here
+  size: 3
